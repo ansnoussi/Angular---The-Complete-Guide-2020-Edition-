@@ -10,3 +10,14 @@ Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps wit
   main.ts --> app.module.ts (the bootstrap array) --> app.component <br>
   (all components in the bootstrap array are injected in index.html using selectors)
   ![Start](screenshots/1.png)
+
+- Components
+  selectors (can be replicated ofc) will be added to app.component.html instead of index.html <br>
+  to create a new component with CLI (leave ng serve running): <br>
+  ```
+  ng generate component componentName
+  ```
+  or you can use the shortcut :
+  ```
+  ng g c componentName
+  ```
