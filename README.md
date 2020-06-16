@@ -29,10 +29,13 @@ Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps wit
     => can select elements by attributs / class name ... <br>
     (select by id / sudo-selectors (hover..) : don't work)
 
-- Databinding (videos 25 - 26 - 27)
+- Databinding (videos 25 ... 34)
   ![Databinding](screenshots/2.png)
 
   - String Interpolation
     just put between `{{ }}` any single line expression that can be resolved to a string. <br>
     example: <br>
     ![3](screenshots/3.png) ![4](screenshots/4.png)
+
+  - Property Binding : uses `[property]="..."`
+  - Event Binding : uses `(event)="..."`
