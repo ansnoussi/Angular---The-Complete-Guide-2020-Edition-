@@ -14,13 +14,20 @@ Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps wit
 - Components
   selectors (can be replicated ofc) will be added to app.component.html instead of index.html <br>
   to create a new component with CLI (leave ng serve running): <br>
+
   ```
   ng generate component componentName
   ```
+
   or you can use the shortcut :
+
   ```
   ng g c componentName
   ```
+
   - the selector part of the component class modifier works like in css <br>
     => can select elements by attributs / class name ... <br>
     (select by id / sudo-selectors (hover..) : don't work)
+
+- Databinding (videos 25 - 26 - 27)
+  ![Databinding](screenshots/2.png)
