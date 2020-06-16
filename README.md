@@ -21,3 +21,6 @@ Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps wit
   ```
   ng g c componentName
   ```
+  - the selector part of the component class modifier works like in css <br>
+    => can select elements by attributs / class name ... <br>
+    (select by id / sudo-selectors (hover..) : don't work)
