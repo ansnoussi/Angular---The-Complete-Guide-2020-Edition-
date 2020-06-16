@@ -2,6 +2,10 @@
 
 Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js by Maximilian Schwarzmüller
 
+## Simplest Cheat sheet out there
+
+https://malcoded.com/angular-cheat-sheet/
+
 # Notes :
 
 ## The Basics
