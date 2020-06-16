@@ -46,3 +46,7 @@ https://malcoded.com/angular-cheat-sheet/
 
 - Directives
   some commun directives : `ngIf` , `ngStyle` , `ngClass` , `ngFor`
+
+## Creating the recipe app
+
+![5](screenshots/5.png)
