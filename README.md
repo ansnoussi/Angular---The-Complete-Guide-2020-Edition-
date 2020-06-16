@@ -39,3 +39,6 @@ Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps wit
 
   - Property Binding : uses `[property]="..."`
   - Event Binding : uses `(event)="..."`
+
+- Directives
+  some commun directives : `ngIf` , `ngStyle` , `ngClass` , `ngFor`
