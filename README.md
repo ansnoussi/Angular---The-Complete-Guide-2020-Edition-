@@ -7,6 +7,6 @@ Master Angular 9 (formerly "Angular 2") and build awesome, reactive web apps wit
 ## The Basics
 
 - How the App is bootsrapped (Video 15) <br>
-  main.ts --> app.module.ts (the bootstrap array) --> app.component
+  main.ts --> app.module.ts (the bootstrap array) --> app.component <br>
   (all components in the bootstrap array are injected in index.html using selectors)
   ![Start](screenshots/1.png)
