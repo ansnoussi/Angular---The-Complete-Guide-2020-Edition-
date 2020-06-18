@@ -49,6 +49,10 @@ https://malcoded.com/angular-cheat-sheet/
 
 - these 2 are the same : <br> ![6](screenshots/6.png) ![7](screenshots/7.png)
 
+* Lifecycle Hooks <br>
+
+![8](screenshots/8.png)
+
 ## Creating the recipe app
 
 ![5](screenshots/5.png)
